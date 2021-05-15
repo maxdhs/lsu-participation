@@ -1,0 +1,16 @@
+button {
+  background-color: rgb(14, 143, 53);
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 2px;
+  margin: 1px;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #4caf50; /* Green */
+  color: white;
+}
